@@ -1,0 +1,12 @@
+@import 'dash.css';
+
+.container h2{
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.container table{
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
